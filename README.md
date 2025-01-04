@@ -2,10 +2,8 @@
 Este repositório contém um site comercial estruturado para a empresa automotiva TOPPFLIM , requerido pela disciplina PROJETOS 1 do curso Projeto Desenvolve- (https://projetodesenvolve.com.br/) 
 
 # Ferramentas Usadas :
-  
-          
-  
-       height=110 width=100 /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" height=110 width=100  />
+            
 # Criadora :
 
 Ghabriela de Oliveira Santos Luminato
