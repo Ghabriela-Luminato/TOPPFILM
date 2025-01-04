@@ -6,7 +6,7 @@ Este repositório contém  Requerido pela disciplina PROJETOS 1 do Projeto Desen
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=100 width=100/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" height=100 width=100/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" height=100 width=100/>  
 # Criadora :
 
-Ghabriela de Oliveira Santos Luminato - PDITA 472
+Ghabriela de Oliveira Santos Luminato
 E-mail: ghabriela.santosluminato@gmail.com</a>
 
 ![Logo Ghabriela - Copia (3) (1)](https://github.com/Ghabriela-Luminato/Dashbaord-Tecnologia-Medica-/assets/153844509/7a911300-8937-4c88-9a44-ca5a31fd434d)
