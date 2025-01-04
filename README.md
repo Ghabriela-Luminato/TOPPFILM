@@ -1,6 +1,5 @@
 # SITE COMERCIAL
-Este repositório contém um site comercial estruturado para a empresa automotiva TOPPFLIM</a>
-Requerido pela disciplina PROJETOS 1 (Projeto Desenvolve- https://projetodesenvolve.com.br/) 
+Este repositório contém um site comercial estruturado para a empresa automotiva TOPPFLIM ,e foi requerido pela disciplina PROJETOS 1 do Cirso Projeto Desenvolve- (https://projetodesenvolve.com.br/) 
 
 # Ferramentas Usadas :
   
